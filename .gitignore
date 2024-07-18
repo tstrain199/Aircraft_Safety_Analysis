@@ -1,0 +1,7 @@
+
+# Data
+/zippedData/*.csv
+
+# Junk Files
+.DS_Store
+.ipynb_checkpoints

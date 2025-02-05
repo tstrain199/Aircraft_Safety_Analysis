@@ -37,8 +37,6 @@ To show which cities were underserverd by airlines we combined flight data from 
 ## Results
 The result show the safest aircraft is the Embreaer ERJ-145 and the Bombardier CRJ-700. These were closely followed by the Boeing 717. The combination of safest and least emissions were the (used) Airbus A319, McDonell Douglass MD11, and  (new) ERJ-175 and Boeing 767.
 
-## Conclusions
-
 ## Repository Structure
 
 |---ReadMe.md -----------------------> This document  
@@ -46,6 +44,11 @@ The result show the safest aircraft is the Embreaer ERJ-145 and the Bombardier C
 |---Images --------------------------> Images used in this projet  
 |---zippedData ----------------------> Folder with data files used for analysis  
 |---presentation.pdf ----------------> PDF of presentation slides
+
+## Interactive Viz
+https://public.tableau.com/views/OriginandDestination_17387251836450/OriginandDestination?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/newacsa/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Images
 Combined Normalized Flight Saftey and Emmissions Ratings

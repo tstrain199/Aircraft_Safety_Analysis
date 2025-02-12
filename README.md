@@ -40,10 +40,12 @@ The result show the safest aircraft is the Embreaer ERJ-145 and the Bombardier C
 ## Repository Structure
 
 |---ReadMe.md -----------------------> This document  
-|---Aircraft-Saftey-Analysis.ipynb --> Jupyter Notebook with data analysis  
+|---Aircraft-Saftey-Analysis.ipynb --> Jupyter Notebook with data analysis 
+|---notebook.pdf --------------------> PDF of Jupyter Notebook 
 |---Images --------------------------> Images used in this projet  
 |---zippedData ----------------------> Folder with data files used for analysis  
 |---presentation.pdf ----------------> PDF of presentation slides
+|---github.pdf ----------------------> PDF of this github page
 
 ## Interactive Viz
 https://public.tableau.com/views/OriginandDestination_17387251836450/OriginandDestination?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
